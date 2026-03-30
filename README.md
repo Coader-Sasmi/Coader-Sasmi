@@ -10,7 +10,8 @@
 ### 👩‍💻 About Me
 
 - 🔭 Currently working as **Frontend Developer at Netsqure** (Remote)
-- 🚀 Led an Event Platform serving **3,000+ users** — improved performance by **30%**, reduced load time by **20%**
+- 🚀 Architected Event Management Platform — **3,000+ users · 30% faster rendering · 20% reduced load time**
+- 🏗️ Built production projects for real clients — E-Commerce (US), Interior Design Agency (Bangalore)
 - 🌱 Currently expanding into **Full-stack MERN** (Node.js, Express, MongoDB)
 - 💼 Open to **Frontend Engineer roles** targeting **10–12 LPA**
 - 📍 Based in **Odisha, India** · Available for **Remote** roles
@@ -46,9 +47,10 @@
 
 | Project | Tech | Live |
 |--------|------|------|
-| 🎯 Event Management Platform | Next.js, TypeScript, Redux, SWR | [Live Demo](#) |
-| 🏫 School Management System | React, TypeScript, Axios | [Live Demo](#) |
-| 💼 Portfolio Website | Next.js, Tailwind CSS | [Live](https://my-portfolio-website-blond-two.vercel.app/) |
+| 🎯 Event Management Platform | Next.js · TypeScript · Redux Toolkit · SWR · MUI | Private (NDA) |
+| 📊 Product Management Dashboard | React · TypeScript · Redux · MUI · Recharts | [Live](https://product-management-dashboard-webapp.vercel.app/dashboard) |
+| 🛒 Limited Cart | Next.js · TypeScript · Tailwind CSS | [Live](https://limited-cart.vercel.app/) |
+| 🏢 HRMS & CRM Dashboard | React · TypeScript · ApexCharts · Redux · Axios | Searching Yard Group |
 
 ---
 
