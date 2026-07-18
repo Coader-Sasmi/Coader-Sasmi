@@ -66,21 +66,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://herokuapp.com" width="48%" alt="Sasmi's GitHub Streak" />
-  <img src="https://vercel.app" width="48%" alt="Sasmi's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" width="98%" alt="Sasmi's Overall Core Profile Stats" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasmita-mahanta-7b24801a7/)
