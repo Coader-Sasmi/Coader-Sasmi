@@ -69,7 +69,11 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Coader-Sasmi&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://herokuapp.com" width="60%" alt="Sasmi's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" width="40%" alt="Sasmi's Top Languages" />
 </p>
 
 ---
