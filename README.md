@@ -1,21 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sasmita Mahanta</h1>
-<h3 align="center">Product-focused Frontend Engineer | React · Next.js · TypeScript</h3>
+<h3 align="center">Frontend Engineer | React · Next.js · TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vMultiline=false&width=600&lines=4%2B+years+building+scalable+web+apps;React+%7C+Next.js+%7C+TypeScript+specialist;Performance+optimization+%7C+RBAC+systems;Open+to+Frontend+roles+%7C+10-12+LPA" alt="Typing SVG" />
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔭 Currently working as **Frontend Developer at Netsqure** (Remote)
-- 🚀 Architected Event Management Platform — **3,000+ users · 30% faster rendering · 20% reduced load time**
-- 🏗️ Built production projects for real clients — E-Commerce (US), Interior Design Agency (Bangalore)
-- 🌱 Currently expanding into **React Native** (cross-platform mobile development)
-- 💼 Open to **Frontend Engineer roles** targeting **10–12 LPA**
-- 📍 Based in **Odisha, India** · Available for **Remote** roles
-- 📫 Reach me at **mahantasasmita326@gmail.com**
+- 🔭 Specialized in architecting high-performance SaaS applications and enterprise-grade dashboards.
+- 🚀 Architected an Event Management Platform — **3,000+ active users · 30% faster UI rendering · 20% reduced initial load times**.
+- 🏗️ Handled end-to-end product engineering cycles for fintech clients, complex workflows, and secure e-commerce portals.
+- 🌱 Currently deep-diving into **React Native** to scale cross-platform architectural systems.
+- 📍 **Remote (UTC +5:30 / IST Friendly)** | Fully aligned to sync asynchronously across cross-functional global teams.
+- 📫 Reach me at: **mahantasasmita326@gmail.com**
 
 ---
 
@@ -63,11 +62,11 @@
 
 | Project | Tech | Live |
 |--------|------|------|
-| 🎯 Event Management Platform | Next.js · TypeScript · Redux Toolkit · SWR · MUI | Private (NDA) |
+| 🎯 Event Management Platform | Next.js · TypeScript · Redux Toolkit · SWR · MUI | Private (NDA Verification Ready) |
 | 📈 Dalal Street — SEBI Stock Research Platform | Next.js · TypeScript · Tailwind CSS · Payment Gateway · Forms | [Live](https://dalal-street-frontend.vercel.app/) |
 | 📊 Product Management Dashboard | React · TypeScript · Redux · MUI · Recharts | [Live](https://product-management-dashboard-webapp.vercel.app/dashboard) |
 | 🛒 Limited Cart | Next.js · TypeScript · Tailwind CSS | [Live](https://limited-cart.vercel.app/) |
-| 🏢 HRMS & CRM Dashboard | React · TypeScript · ApexCharts · Redux · Axios | Searching Yard Group |
+| 🏢 HRMS & CRM Dashboard | React · TypeScript · ApexCharts · Redux · Axios | Multi-Role Internal Enterprise Tool |
 
 ---
 
