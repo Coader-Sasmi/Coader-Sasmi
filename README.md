@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sasmita Mahanta</h1>
 <h3 align="center">Frontend Engineer | React · Next.js · TypeScript</h3>
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
@@ -71,10 +67,6 @@
 ---
 
 ### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Coader-Sasmi&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coader-Sasmi&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
