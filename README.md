@@ -69,7 +69,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coader-Sasmi&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Coader-Sasmi&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
