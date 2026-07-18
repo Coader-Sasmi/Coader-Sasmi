@@ -68,12 +68,15 @@
 
 ### 📊 GitHub Activity
 
+### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://herokuapp.com" width="60%" alt="Sasmi's GitHub Streak" />
+  <img src="https://herokuapp.com" width="48%" alt="Sasmi's GitHub Streak" />
+  <img src="https://vercel.app" width="48%" alt="Sasmi's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" width="40%" alt="Sasmi's Top Languages" />
+  <img src="https://vercel.app" width="98%" alt="Sasmi's Overall Core Profile Stats" />
 </p>
 
 ---
